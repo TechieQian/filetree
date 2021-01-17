@@ -1,0 +1,17 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+.subdir {
+  display: none;
+}
+
+.subdir.show {
+  display: block;
+}
